@@ -49,7 +49,7 @@ IOT ismi, özellikleri, fonksiyonları tanımlanır
 Http Server üzerine konulur.
 Main loop ile güncelleme yapılarak takip edilir.
 Gateway üzerinden gelen Tex metni OLED ekran üzerinde gösterilmiştir.
-Gateway üzerinden gelen  ON/OFF ile Led kontrolü yapılmıştır.s
+Gateway üzerinden gelen  ON/OFF ile Led kontrolü yapılmıştır.
 
 
 
