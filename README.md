@@ -8,17 +8,18 @@ NodeMCU kullanılarak hazırlanan IOT birimin üzerinde bulunan OLED ekran kontr
 Python ile hazırlanan sanal IOT birimin kontrol edilmesi.
 Gateway üzerinden IOT birimler arasındaki yapının düzenlenmesi ve çıktı olarak mail gönderilmesi, uyarı eklenmesi v.b.
 
-PROJE  - Donanım -Gateway
+PROJE  - Donanım 
 
- Raspberry Pİ 3B+
+Gateway - Raspberry Pİ 3B+
 
 Mozilla Gateway kurulumu için Raspberry Pİ 3 + seçilmiştir. Bu donanımın kullanılmasının nedenleri :
 Raspberry Pİ için özelleştirilmiş ISO dosyasının olması,
 Dahili Wifi  biriminin bulunması,
 Fiyat / Performans oranının iyi olması
 
-PROJE  - Donanım 
-IOT Birimi - NodeMCU Lolin ESP8266 Kart
+
+IOT Birimi 
+NodeMCU  - Lolin ESP8266 Kart
 
 IOT birim olarak NodeMCU kart seçilmiştir. Bu donanımın kullanımasının nedenleri : 
 Dahili bir Wifi modülünün olması,
