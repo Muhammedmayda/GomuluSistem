@@ -4,11 +4,29 @@ PROJE  - Mozilla Gateway ile IOT Cihazların Kontrolü ve İzlenmesi
 
 Proje - Özeti
  
- Bu proje de amaçlanan Raspberry Pi -3 üzerine Mozilla Gateway kurulumu ve bu gateway ile özelleştirilmiş bir IOT(ESP8266) kartın haberleşmesi ve özelleştirilmesi yapılmıştır.
- Proje Raspberry Pi üzerine kurulan Mozilla Gateway ile gerekli olan(Json Format) formda IOT cihazın tanımlanması ve kontrol edilmesi.
-NodeMCU kullanılarak hazırlanan IOT birimin üzerinde bulunan OLED ekran kontrolü ve üzerindeki Led’in kontrol edilmesi.
-Python ile hazırlanan sanal IOT birimin kontrol edilmesi.
-Gateway üzerinden IOT birimler arasındaki yapının düzenlenmesi ve çıktı olarak mail gönderilmesi, uyarı eklenmesi v.b.
+ Bu proje de amaçlanan Raspberry Pi -3 üzerine Mozilla Gateway kurulumu ve bu gateway ile özelleştirilmiş bir IOT(ESP8266) kartın haberleşmesi ve bu kart üzerine eklenen OLED ekrana tarayıcı üzerinden veri transferi, led açıp-kapama ve mail göndermesi yapılmıştır. daha sonra Python ile hazırlanan sanal IOT birimin kontrol edilmesi de eklenerek uygulama yapılmıştır.
+ 
+ PROJE  - Donanım 
+
+      Gateway - Raspberry Pİ 3B+
+
+      Mozilla Gateway kurulumu için Raspberry Pİ 3 + seçilmiştir. Bu donanımın kullanılmasının nedenleri :
+      Raspberry Pİ için özelleştirilmiş ISO dosyasının olması,
+      Dahili Wifi  biriminin bulunması,
+      Fiyat / Performans oranının iyi olması
+
+Proje Adımları : 
+ 1 - Raspberry Pi için Gateway iso dosyasının kurulumu : 
+       Mozilla Gateway
+
+       Mozilla Gateway kurulumuna aşağıdaki link takip edilerek ulaşılabilir. Adımlar kısaca şöyledir:
+       ISO dosyasının SD karta yüklenmesi,
+       Raspberry Pi’ye güç verilmesi  ,
+       Mozilla Gateway olarak Wifi ağı oluşması ve katılmak,
+       Giriş yapıp cihaz tarasması ve özelleştirme,
+       Genel kullanım için hazırlanmış olmaktadır.
+       Link : https://iot.mozilla.org/docs/gateway-getting-started-guide.html
+
 
 PROJE  - Donanım 
 
@@ -30,14 +48,7 @@ Fiyat ve güç tüketimi,
 Programlama kolaylığı
 Kart üzerine Oled Ekran ve Led eklenmiştir.
 
-Mozilla Gateway
 
-Mozilla Gateway kurulumuna aşağıdaki link takip edilerek ulaşılabilir. Adımlar kısaca şöyledir:
-ISO dosyasının SD karta yüklenmesi,
-Raspberry Pi’ye güç verilmesi  ,
-Mozilla Gateway olarak Wifi ağı oluşması ve katılmak,
-Genel kullanım için hazırlanmış olmaktadır.
-Link : https://iot.mozilla.org/docs/gateway-getting-started-guide.html
 
 
 
