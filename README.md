@@ -79,6 +79,8 @@ Proje Adımları :
   
   Daha detaylı bilgiye Sunum Klasöründen ulaşılabilir.
   
+  Kısa Demo video linki : https://drive.google.com/file/d/1rgDISHl3n9aeUPhQE2INpdYeEuZYflrn/view?usp=sharing
+  
   
   Örnek bir IOT cihazın eklendiği ve demosunun yapıldığı, sunumun yapıldığı Zoom linki : https://drive.google.com/file/d/1sE_osRRhyH4yI0R_v1NhNcYqvb7ENBNK/view?usp=sharing gibidir. 
   Veya Video bölümünde bulunan link ile ulaşılabilir.
