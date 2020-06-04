@@ -52,13 +52,21 @@ Proje Adımları :
      Gerekli kütüphanelere aşağıdaki link aracılığıyla bulunabilir.
  Link : https://iot.mozilla.org/framework/
      Kod Adımları :
+     
      Gateway formatına uygun HTTP Server başlatılıyor.
-     Json encoding formatında IOT birim tanımlanıyor. 
+     
+     Json encoding formatında IOT birim tanımlanıyor.
+     
      IOT ismi, özellikleri, fonksiyonları tanımlanır 
+     
      Http Server üzerine konulur.
+     
      Main loop ile güncelleme yapılarak takip edilir.
+     
      Gateway üzerinden gelen Tex metni OLED ekran üzerinde gösterilmiştir.
+     
      Gateway üzerinden gelen  ON/OFF ile Led kontrolü yapılmıştır.
+     
 
 
 
