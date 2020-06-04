@@ -1,14 +1,14 @@
 # GomuluSistem
 
 PROJE  - Mozilla Gateway ile IOT Cihazların Kontrolü ve İzlenmesi
-
+Proje - Özeti
  Proje Raspberry Pi üzerine kurulan Mozilla Gateway ile gerekli olan(Json Format) formda IOT cihazın tanımlanması ve kontrol edilmesi.
 NodeMCU kullanılarak hazırlanan IOT birimin üzerinde bulunan OLED ekran kontrolü ve üzerindeki Led’in kontrol edilmesi.
 Python ile hazırlanan sanal IOT birimin kontrol edilmesi.
 Gateway üzerinden IOT birimler arasındaki yapının düzenlenmesi ve çıktı olarak mail gönderilmesi, uyarı eklenmesi v.b.
 
 PROJE  - Donanım
-Raspberry Pİ 3B+
+Gateway - Raspberry Pİ 3B+
 
 Mozilla Gateway kurulumu için Raspberry Pİ 3 + seçilmiştir. Bu donanımın kullanılmasının nedenleri :
 Raspberry Pİ için özelleştirilmiş ISO dosyasının olması,
@@ -16,7 +16,7 @@ Dahili Wifi  biriminin bulunması,
 Fiyat / Performans oranının iyi olması
 
 PROJE  - Donanım 
-NodeMCU Lolin ESP8266 Kart
+IOT Birimi - NodeMCU Lolin ESP8266 Kart
 
 IOT birim olarak NodeMCU kart seçilmiştir. Bu donanımın kullanımasının nedenleri : 
 Dahili bir Wifi modülünün olması,
