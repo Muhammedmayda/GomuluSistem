@@ -29,7 +29,9 @@ Proje - Özeti
       
       
 
-Proje Adımları : 
+Proje Adımları :
+
+
  1 - Raspberry Pi için Gateway iso dosyasının kurulumu : 
        Mozilla Gateway
 
