@@ -1,4 +1,4 @@
-# GomuluSistem
+# GomuluSistem - Mozilla Gateway -ESP8266 IOT
 
 PROJE  - Mozilla Gateway ile IOT Cihazların Kontrolü ve İzlenmesi
 
