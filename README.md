@@ -76,7 +76,13 @@ Proje Adımları :
   
   Örnek arduino koduna bu link üzerinden ulaşılabilir : https://github.com/Muhammedmayda/GomuluSistem/blob/master/Ardunio-NodeMCU/Mozilla-NodeMCU/Mozilla-NodeMCU.ino veya Arduino klasörü içerisine eklenmiştir.
   
-  İlgili görsellere Sunum Klasöründen ulaşılabilir.
+  
+  Daha detaylı bilgiye Sunum Klasöründen ulaşılabilir.
+  
+  
+  Örnek bir IOT cihazın eklendiği ve demosunun yapıldığı, sunumun yapıldığı Zoom linki : https://drive.google.com/file/d/1sE_osRRhyH4yI0R_v1NhNcYqvb7ENBNK/view?usp=sharing gibidir. 
+  Veya Video bölümünde bulunan link ile ulaşılabilir.
+  
   
      
 
