@@ -1,8 +1,10 @@
-# GomuluSistem - Mozilla Gateway -ESP8266 IOT
+# GomuluSistem / Mozilla Gateway -ESP8266 IOT
 
 PROJE  - Mozilla Gateway ile IOT Cihazların Kontrolü ve İzlenmesi
 
 Proje - Özeti
+ 
+ Bu proje de amaçlanan Raspberry Pi -3 üzerine Mozilla Gateway kurulumu ve bu gateway ile özelleştirilmiş bir IOT(ESP8266) kartın haberleşmesi ve özelleştirilmesi yapılmıştır.
  Proje Raspberry Pi üzerine kurulan Mozilla Gateway ile gerekli olan(Json Format) formda IOT cihazın tanımlanması ve kontrol edilmesi.
 NodeMCU kullanılarak hazırlanan IOT birimin üzerinde bulunan OLED ekran kontrolü ve üzerindeki Led’in kontrol edilmesi.
 Python ile hazırlanan sanal IOT birimin kontrol edilmesi.
