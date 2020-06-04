@@ -74,7 +74,9 @@ Proje Adımları :
   5- Cihazın eklenmesi ve Arduino kodu içerisinde belirtilen formata uygun iconun eklenmesi ve kontrol edilmesi .
   
   
-  Örnek arduino kodu ilgili Arduino klasörü içerisine eklenmiştir. İlgili örnek videosu 
+  Örnek arduino koduna bu link üzerinden ulaşılabilir : https://github.com/Muhammedmayda/GomuluSistem/blob/master/Ardunio-NodeMCU/Mozilla-NodeMCU/Mozilla-NodeMCU.ino veya Arduino klasörü içerisine eklenmiştir.
+  
+  İlgili görsellere Sunum Klasöründen ulaşılabilir.
   
      
 
