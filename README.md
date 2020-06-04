@@ -74,6 +74,8 @@ Proje Adımları :
   5- Cihazın eklenmesi ve Arduino kodu içerisinde belirtilen formata uygun iconun eklenmesi ve kontrol edilmesi .
   
   
+  Örnek arduino kodu ilgili Arduino klasörü içerisine eklenmiştir. İlgili örnek videosu 
+  
      
 
 
