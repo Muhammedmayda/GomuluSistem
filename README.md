@@ -39,7 +39,7 @@ Proje Adımları :
        ISO dosyasının SD karta yüklenmesi,
        Raspberry Pi’ye güç verilmesi  ,
        Mozilla Gateway olarak Wifi ağı oluşması ve katılmak,
-       Giriş yapıp cihaz tarasması ve özelleştirme,
+       Giriş yapıp cihaz taraması ve özelleştirme,
        Genel kullanım için hazırlanmış olmaktadır.
  Link : https://iot.mozilla.org/docs/gateway-getting-started-guide.html
 
@@ -66,6 +66,14 @@ Proje Adımları :
      Gateway üzerinden gelen Tex metni OLED ekran üzerinde gösterilmiştir.
      
      Gateway üzerinden gelen  ON/OFF ile Led kontrolü yapılmıştır.
+     
+  3-  Gateway üzerine giriş yapılması ve giriş yapıldıktan sonra sağ alt köşede bulunan + işareti ile yeni cihazın eklenmesi.
+  
+  4-  Cihaz + işaretine basıldıktan sonra gözükmüyorsa Arduino kodu içerisinde verilen IP adresini el ile girilmesi gerekiyor.
+  
+  5- Cihazın eklenmesi ve Arduino kodu içerisinde belirtilen formata uygun iconun eklenmesi ve kontrol edilmesi .
+  
+  
      
 
 
